@@ -1,0 +1,19 @@
+# demo
+
+## 上传相关git命令
+
+git status 查看信息
+
+git log显示变更信息
+
+git commit -m "备注" 提交一次到仓库
+
+git remote -v 查看链接
+
+git remote add  别名 https://.....路径 推上去 
+
+git push 别名（通常是origin） master  拽下来
+
+git pull 别名 master
+
+
